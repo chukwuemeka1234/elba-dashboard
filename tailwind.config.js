@@ -40,7 +40,7 @@ module.exports = {
       },
       backgroundImage: {
         'hero-pattern':
-          "url('https://i.ibb.co/MkvLDfb/Rectangle-4389.png')",
+          "url('https://img.freepik.com/free-vector/customer-support-representatives-working-call-center_74855-6340.jpg?size=626&ext=jpg&ga=GA1.2.2100893794.1687989387&semt=ais')",
       },
     },
   },
